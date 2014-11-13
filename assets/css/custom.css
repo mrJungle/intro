@@ -1,0 +1,18 @@
+.h1_inset {
+	font-family: "Monda",sans-serif;
+	color: #555;
+	font-size: 7.9em;
+    text-shadow: 0px -2px 2px #111, 0px 2px 2px #999;
+}
+
+.h1_inset_xs {
+	font-family: "Monda",sans-serif;
+	color: #555;
+	font-size: 3.5em;
+    text-shadow: 0px -2px 2px #111, 0px 2px 2px #999;
+}
+.p_inset {
+	color: #999;
+	font-size: 1.9em;
+
+}
