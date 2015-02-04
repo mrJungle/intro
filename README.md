@@ -1,4 +1,4 @@
 intro
 =====
 
-intro page a schermo fisso
+Esempio di pagina statica
